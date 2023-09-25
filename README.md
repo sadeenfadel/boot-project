@@ -1,1 +1,1 @@
-# boot-project
+# bootstrap-project
